@@ -1,0 +1,1 @@
+print(operations[operation_symbol](*opera))
